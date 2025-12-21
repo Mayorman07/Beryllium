@@ -80,8 +80,8 @@ body::before {
 }
 
 .quote-text {
-    font-size: 1.1rem;
-    font-weight: 600;
+    font-size: 1.0rem;
+    font-weight: 500;
     line-height: 1.4;
     font-family:'Cinzel Decorative', cursive;
     color: #5d4037; /* Warm Brown */
