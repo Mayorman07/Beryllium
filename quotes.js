@@ -108,7 +108,7 @@ export const localQuotes = [
       "author": "Miss Amaran"
     },
     {
-      "text": "A gun isn’t a poppy that knows it’s owner. A bullet will fire at where it’s pointed.",
+      "text": "A gun isn’t a puppy that knows it’s owner. A bullet will fire at where it’s pointed.",
       "author": "Beryl"
     },
     {
