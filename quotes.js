@@ -156,6 +156,10 @@ export const localQuotes = [
       "author": "Miss Amaran"
     },
     {
+        "text": "Whenever you think about me, always remember me at my best.",
+        "author": "May"
+      },
+    {
       "text": "Do not blame yourself for things you cannot control.",
       "author": "Beryl"
     },
