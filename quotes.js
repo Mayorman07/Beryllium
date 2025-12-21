@@ -16,7 +16,7 @@ export const localQuotes = [
       "author": "Miss Amaran"
     },
     {
-        "text": "Its bBig Homie and i against the world",
+        "text": "Its Big Homie and i against the world",
         "author": "Thelmie Baby"
       },
     {
@@ -172,11 +172,11 @@ export const localQuotes = [
       "author": "Beryl"
     },
     {
-      "text": "Making decisions without reservation or hesitation …. That’s what timing is.",
+      "text": "Making decisions without reservation or hesitation. That is what timing is.",
       "author": "Ebi"
     },
     {
-      "text": "“What if’s” don’t exert any power",
+      "text": "What if’s don’t exert any power",
       "author": "Miss Amaran"
     },
     {
