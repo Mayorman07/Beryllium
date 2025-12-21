@@ -86,6 +86,7 @@ body::before {
     font-family:'Cinzel Decorative', cursive;
     color: #5d4037; /* Warm Brown */
     margin-bottom: 20px;
+    letter-spacing: 3px;
 }
 
 .long-quote {
